@@ -1,0 +1,12 @@
+Metric,Logistic Regression,Gradient Boosting
+CV ROC-AUC (mean),0.8757,0.8742
+CV ROC-AUC (std),0.0248,0.0253
+Test ROC-AUC,0.8895,0.9093
+Brier Score,0.1290,0.1221
+Recall (t=0.3),0.9608,0.9804
+Specificity (t=0.3),0.6220,0.5854
+False Negatives (t=0.3),4,2
+False Positives (t=0.3),31,34
+F1 (t=0.3),0.8485,0.8475
+Interpretable?,Yes,No (black box)
+Recommended?,Yes,No
