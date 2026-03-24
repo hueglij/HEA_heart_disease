@@ -4,3 +4,8 @@ data/processed/
 __pycache__/
 *.pyc
 .claude
+
+#figures ignorieren
+results/figures/*.png
+
+*.png
