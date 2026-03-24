@@ -1,4 +1,4 @@
-Metric,Logistic Regression,Gradient Boosting
+Metric,LogReg (12 Features),GBM (12 Features)
 Test ROC-AUC,0.8895,0.9093
 Sensitivity (t=0.3),0.9608,0.9804
 Precision (t=0.3),0.7597,0.7463
